@@ -187,11 +187,7 @@ Page 3: Digital Habits & Physical Awareness
 
 Before continuing, please watch the short clip below.
 
-[Video embed area]
-Duration: 1 min 43 sec
-[▶ Play] [Speed: 1x / 1.5x / 2x]
-This is real-time footage recorded by our research center
-during the third quarter of this year.
+//add:  https://www.youtube.com/watch?v=Ml_gxQOcEsg
 
 19. Do you often watch videos at increased speed?
 ● Strongly agree

@@ -1,0 +1,384 @@
+```
+Travel Check-ins & Social Media Usage Survey
+Issued by: F.R.I.N Department of Digital Health Research
+This survey should take approximately 8–12 minutes to complete.
+Your responses will be used to support research on digital health
+and travel application development. Thank you for participating.
+
+════════════════════════════════
+Page 1: Basic Information & Usage Behavior
+════════════════════════════════
+
+1. What is your age range?
+● Under 18
+● 18–24
+● 25–34
+● 35–44
+● 45 or older
+
+2. What is your current employment status?
+● Student
+● Employed (creative / media-related)
+● Employed (other)
+● Freelance / independent creator
+● Other
+
+3. Which platforms do you use on a daily basis? (Select all that apply)
+● Instagram
+● X (Twitter)
+● TikTok
+● YouTube
+● Facebook
+● WhatsApp / LINE
+● Other: ___
+
+4. On average, how much time do you spend on social media each day?
+● Less than 1 hour
+● 1–3 hours
+● 3–5 hours
+● More than 5 hours
+//→ Additional questions:
+4a. Have you ever actively tried to reduce your usage?
+● Yes, and it worked
+● Yes, but it didn't work
+● I've never tried
+● I've never thought about it
+4b. What do you think is the main reason for your dependence
+    on social media? (Select all that apply)
+● Fear of missing out on important information
+● Out of habit, to pass the time
+● Work or creative needs
+● Staying connected with others
+● Not sure
+
+5. What time of day do you usually use social media? (Select all that apply)
+● Right after waking up
+● During commutes
+● During breaks from work or study
+● Before bed
+● No fixed pattern
+
+6. How would you describe your main behavior on social media?
+● Mostly browsing — I rarely post
+● Roughly equal mix of browsing and posting
+● Mostly posting — I actively interact with others
+
+7. After posting content, do you usually check metrics
+   like views or likes?
+//【Note: This question replaces the previous one after ~2 seconds.
+//It initially displays: "Would you ever consider keeping a goldfish?"】
+● Never
+● Sometimes
+● Often
+● Always (almost out of habit)
+
+8. Setting aside money and free time, do you enjoy traveling?
+//【Note: This question replaces the previous one after ~2 seconds.
+//It initially displays: "Do you like goldfish?"】
+● Love it
+● Like it
+● It's okay
+● Not really
+
+9. When traveling, do you actively document your trip on social media?
+● Almost every time
+● Sometimes
+● Rarely
+● Never
+
+10. If there were a social media app designed specifically
+    for travel check-ins, would you use it?
+● Definitely
+● I might give it a try
+● Probably not
+● Not at all
+
+10a. (Shown only if "Definitely" or "I might give it a try" is selected)
+Which features would you most want the app to have?
+(Select all that apply)
+● Location check-ins and route tracking
+● Connecting with like-minded travelers
+● Live streaming or real-time sharing
+● Local recommendations and hidden gems
+● Automatic travel memory summaries
+
+════════════════════════════════
+Page 2: Information Access & Social Connection
+════════════════════════════════
+
+11. Where do you mainly get your news? (Select all that apply)
+● Social media feeds
+● Media outlets I subscribe to
+● Shared by friends or family
+● Traditional media (TV, newspapers)
+● I don't actively seek out news
+
+12. When you come across a news story, do you verify
+    whether it's accurate?
+● Almost always
+● Sometimes
+● Rarely
+● Almost never
+//Dropdown: If yes, how do you usually verify it?
+
+13. Have you ever shared information that later turned out to be false?
+● Never
+● Yes, but I didn't know at the time
+● Not sure
+● Yes, and I didn't do anything about it after finding out
+//Dropdown: Did you take any action after realizing it?
+
+14. Do you feel that you can influence what happens around you?
+(1 = no influence at all, 5 = can make a clear difference)
+ 1 — 2 — 3 — 4 — 5
+
+15. In everyday life, do you often feel that your voice
+    or actions are meaningful?
+● Strongly agree
+● Somewhat agree
+● Not sure
+● Somewhat disagree
+● Strongly disagree
+
+16. In the past six months, have you lost touch with any
+    of the following? (Select all that apply)
+● Family members
+● Friends
+● Colleagues or classmates
+● Neighbors
+● None of the above
+
+17. Do you recognize this woman?
+[Photo attached]
+● Yes
+● No
+● Not sure
+
+//If "Yes" or "Not sure," please continue:
+
+17a. When did you last see her?
+● Within the past week
+● Within the past month
+● Within the past six months
+● More than a year ago
+● I can't remember
+
+17b. What is your relationship to her?
+● Sibling
+● Parent
+● Classmate or colleague
+● Friend
+● Neighbor
+● Someone I know online
+
+17c. Would you mind sharing your name? (Optional)
+[Text field]
+
+18. When a news story on social media includes an image,
+    I tend to find it more credible.
+● Strongly agree
+● Agree
+● Disagree
+● Strongly disagree
+
+════════════════════════════════
+Page 3: Digital Habits & Physical Awareness
+════════════════════════════════
+
+Before continuing, please watch the short clip below.
+
+[Video embed area]
+Duration: 1 min 43 sec
+[▶ Play] [Speed: 1x / 1.5x / 2x]
+This is real-time footage recorded by our research center
+during the third quarter of this year.
+
+19. Do you often watch videos at increased speed?
+● Strongly agree
+● Somewhat agree
+● Neither agree nor disagree
+● Somewhat disagree
+● Strongly disagree
+
+20. When did you last notice the feeling of your own hands?
+● Just now
+● A few hours ago
+● I'm not really sure
+● I don't understand the question
+
+21. Do you often experience eye strain?
+● Never
+● Sometimes
+● Often
+● Almost every day
+
+22. While traveling, have you ever felt any of the following?
+(Select all that apply)
+● Standing in front of a beautiful view, but reaching for
+  your phone anyway
+● Feeling like a trip "didn't count" if you didn't photograph it
+● After a trip, remembering what you posted more clearly
+  than what you actually experienced
+● A hard-to-name sense of distance between yourself
+  and the people you were with
+● None of the above
+
+23. In the past month, have you experienced any of the following?
+(Select all that apply)
+● Difficulty staying focused for more than a few minutes
+● A sense that time passed quickly without anything to show for it
+● Feeling hollow or drained after consuming content
+● Being unable to recall what you were just looking at
+● None of the above
+
+════════════════════════════════
+Page 4: Information Literacy Assessment
+════════════════════════════════
+
+Below are several news stories that have recently
+circulated online. Please rate the credibility of each one.
+
+---
+
+[Story A] (True)
+[Image: A screenshot of an official inspection report
+issued by an aquatic research institute, with the
+institution's name clearly visible]
+
+"Researchers conducting spot-checks at multiple freshwater
+fish farms have detected anisakis and broad tapeworm larvae
+in certain fish samples. Eating such fish raw or
+undercooked poses an infection risk.
+Relevant health authorities have recommended
+thorough cooking before consumption."
+
+In your opinion, this story is:
+● Very likely true
+● Probably has some basis but may be exaggerated
+● Hard to judge
+● Possibly misleading
+● Very likely false
+
+---
+
+[Story B] (False — but widely circulated)
+[Image: A blurry photo of a mountain farmstead
+and water source, no clear attribution]
+
+"Multiple former members have come forward to say that
+a group active in rural mountain areas has been requiring
+members to drink untreated spring water and consume
+specific algae products in the name of 'natural farming'
+and 'body purification,' while cutting off contact
+with the outside world.
+Some members are reported to have developed unexplained
+neurological symptoms. Coverage of the story has allegedly
+been removed from major platforms multiple times."
+
+In your opinion, this story is:
+● Very likely true
+● Probably has some basis but may be exaggerated
+● Hard to judge
+● Possibly misleading
+● Very likely false
+
+---
+
+[Story C] (False — but widely circulated)
+[Image: Formatted to resemble a mainstream news outlet,
+with a clearly visible logo and professional layout]
+
+"The World Health Organization has released a statement
+confirming that all major freshwater parasites are
+effectively eliminated by standard municipal water
+treatment processes.
+Urban residents can be assured their tap water is safe,
+and the public need not be concerned by related
+rumors circulating online."
+
+In your opinion, this story is:
+● Very likely true
+● Probably has some basis but may be exaggerated
+● Hard to judge
+● Possibly misleading
+● Very likely false
+
+---
+
+[Story D] (True)
+[Image: A screenshot of a platform account suspension notice]
+
+"Several major social media platforms have announced
+they will strengthen their review of accounts linked
+to organized extremist religious groups.
+A number of accounts have been suspended or permanently
+banned for allegedly spreading manipulative content
+or recruiting minors."
+
+In your opinion, this story is:
+● Very likely true
+● Probably has some basis but may be exaggerated
+● Hard to judge
+● Possibly misleading
+● Very likely false
+
+---
+
+[Story E] (False — but widely circulated)
+[Image: A microscope photograph with unclear labeling]
+
+"An independent researcher has released data suggesting
+that people who regularly consume algae supplements
+used in ornamental goldfish cultivation show significantly
+higher rates of mild cognitive changes and mood fluctuations
+compared to a control group.
+A connection to an as-yet-unclassified single-celled
+parasitic organism is suspected.
+The paper was rejected by multiple academic journals,
+and the author has alleged systematic suppression
+of the findings."
+
+In your opinion, this story is:
+● Very likely true
+● Probably has some basis but may be exaggerated
+● Hard to judge
+● Possibly misleading
+● Very likely false
+
+---
+
+25. When judging the stories above, what did you mainly rely on?
+    (Select all that apply)
+● Whether the source seemed credible
+● Whether it matched what I already believed
+● Whether the image looked real
+● Whether the tone seemed objective
+● Gut feeling
+
+26. Have you ever felt that certain true information
+    is being systematically suppressed?
+● Yes, I feel this way
+● Maybe, but I can't be sure
+● I think this idea is overstated
+● I've never thought about it
+
+27. Would you be willing to leave your contact information
+    so we can notify you when the research is published?
+
+Email address (optional): ___________________
+
+════════════════════════════════
+
+If you have any questions about this survey, or would like
+to learn more about the Fuji Research Institute
+of Neuropsychobiology, please reach out through
+the following:
+
+X (Twitter): @FRIN_Yatsume
+Gmail: yatsume0401@gmail.com
+We typically respond within 48 hours.
+
+Thank you for completing this survey.
+Your responses have been recorded.
+Please go on with your day.
+```
